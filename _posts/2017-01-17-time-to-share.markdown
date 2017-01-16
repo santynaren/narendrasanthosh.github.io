@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Time to share ! For Nexgen Techie ."
-subtitle:   "INDIA 2020"
+subtitle:   "Vision for India 2020"
 date:       2017-01-17 12:00:00
 author:     "Narendra Santhosh"
 header-img: "img/post-bg-06.jpg"
